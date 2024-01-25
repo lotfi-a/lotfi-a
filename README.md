@@ -2,13 +2,20 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lotfi-a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lotfi-a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=lotfi-a&theme=dracula&column=3&row=2&margin-w=1&margin-h=1&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lotfi-a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lotfi-a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lotfi-a/lotfi-a/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
