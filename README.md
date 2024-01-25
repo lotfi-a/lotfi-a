@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋!</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lotfi-a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Stats" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lotfi-a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=lotfi-a&theme=dracula&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
