@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋!</h2>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/lotfi-a/lotfi-a/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
